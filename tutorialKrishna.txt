@@ -7,5 +7,14 @@ Here I am editing after doing my first commit
 
 
 
+
 Now adding this line to observe branch working
 This is another line fir branch working observation
+
+After branch-one is created now I am writing this line
+
+
+
+
+Now i want to merge both master and branch. But i am not sure as there something in line6 fro both which may lead to merge conflict.
+
